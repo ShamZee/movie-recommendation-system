@@ -6,5 +6,8 @@ Once you have completed the setup, it's time to launch the project! Just execute
 
 With our project, you'll have access to a comprehensive selection of movies and their corresponding posters. By selecting a movie of your choice, our machine learning algorithm will analyze your selection and recommend five similar movies that are sure to captivate your interest.
 
+### and download DATASET from here
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=download&select=tmdb_5000_movies.csv
+
 ### More Machine Learning Projects
 [Machine Learning Projects](https://pythonassignmentshelp.us/machine-learning-project/)
