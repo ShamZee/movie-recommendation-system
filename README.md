@@ -1,4 +1,5 @@
 # movie-recommendation-system
+![image](https://github.com/ShamZee/movie-recommendation-system/assets/64038164/0d6b3afa-fed9-4d7d-aad8-4e7ad0bb6472)
 
 Experience the power of machine learning with our Movie Recommendation project! Simply run the "Movie-recommendation.ipynb" file, and watch as two essential pickle files are generated for you. Don't forget to place these files into the designated "model" folder.
 
@@ -11,3 +12,4 @@ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=download&selec
 
 ### More Machine Learning Projects
 [Machine Learning Projects](https://pythonassignmentshelp.us/machine-learning-project/)
+
