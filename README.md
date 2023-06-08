@@ -6,5 +6,5 @@ Once you have completed the setup, it's time to launch the project! Just execute
 
 With our project, you'll have access to a comprehensive selection of movies and their corresponding posters. By selecting a movie of your choice, our machine learning algorithm will analyze your selection and recommend five similar movies that are sure to captivate your interest.
 
-# More Machine Learning Projects
+### More Machine Learning Projects
 [Machine Learning Projects](https://pythonassignmentshelp.us/machine-learning-project/)
